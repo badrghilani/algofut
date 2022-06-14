@@ -17,4 +17,4 @@ The above mentionned data is then fed into the trading algorithm which connects 
 
 The intention is to release the data gathered throughout the 2022 by the end of the game (September 2022) as high frequency price data is scarce for FUT. 
 
-
+![SCREEN_1](screen_algo1.PNG)
