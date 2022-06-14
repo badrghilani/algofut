@@ -3,7 +3,7 @@ FIFA Ultimate Team - Algorithmic Trading
 
 
 
-### The purpose of this repo is to showcase trading strategies developed in Python and tested live on FUT 22.
+### The purpose of this repo is to showcase FIFA trading tools developed in Python and tested live on FUT 22.
 
 The following is the data infrastructure used to run the strategies:
   Data for players is gathered 24/7 from FutBin.com using a scraper that runs on an E2 instance on GCP.
