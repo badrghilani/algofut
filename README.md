@@ -30,7 +30,7 @@ The intention is to release the data gathered throughout the 2022 by the end of 
 
 The following is a sample of the data and observations initially made trading on FUT 22. Further results and details will be shared by the end of the season.
 
-![SCREEN_1](reg_time_sell.PNG)
+![SCREEN_2](reg_time_sell.png)
 
 
 ![SCREEN_3](time_to_sell.PNG)
