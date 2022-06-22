@@ -23,3 +23,29 @@ The following image shows the Algofut tool with a GUI compiled into a standalone
 
 
 The intention is to release the data gathered throughout the 2022 by the end of the game (September 2022) as high frequency price data is scarce for FUT. 
+
+
+
+## Trade analysis sample
+
+The following is a sample of the data and observations initially made trading on FUT 22. Further results and details will be shared by the end of the season.
+
+![SCREEN_2](reg_time_sell.PNG)
+
+
+![SCREEN_3](time_to_sell.PNG)
+
+
+![SCREEN_4](vol_100k.PNG)
+
+
+![SCREEN_5](cum_log_ret.PNG)
+
+
+![SCREEN_6](fut_prices.PNG)
+
+
+![SCREEN_6](profit_dist.PNG)
+
+
+
