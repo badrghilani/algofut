@@ -21,8 +21,12 @@ The following image shows the Algofut tool with a GUI compiled into a standalone
 ![SCREEN_1](screen_algo1.PNG)
 
 
+Here below is a picture of the timeseries database where price data is stored.
+![SCREEN_1](influxdb_data.png)
 
-The intention is to release the data gathered throughout the 2022 by the end of the game (September 2022) as high frequency price data is scarce for FUT. 
+
+
+The intention is to release the data gathered throughout 2022 by the end of the game (September 2022) as high frequency price data is scarce for FIFA Ultimate Team. 
 
 
 
