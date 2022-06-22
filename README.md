@@ -33,19 +33,19 @@ The following is a sample of the data and observations initially made trading on
 ![SCREEN_2](reg_time_sell.png)
 
 
-![SCREEN_3](time_to_sell.PNG)
+![SCREEN_3](time_to_sell.png)
 
 
-![SCREEN_4](vol_100k.PNG)
+![SCREEN_4](vol_100k.png)
 
 
-![SCREEN_5](cum_log_ret.PNG)
+![SCREEN_5](cum_log_ret.png)
 
 
-![SCREEN_6](fut_prices.PNG)
+![SCREEN_6](fut_prices.png)
 
 
-![SCREEN_6](profit_dist.PNG)
+![SCREEN_6](profit_dist.png)
 
 
 
